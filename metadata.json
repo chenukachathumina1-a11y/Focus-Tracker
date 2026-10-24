@@ -1,0 +1,6 @@
+{
+  "name": "Focus Tracker",
+  "description": "Focus and study tracker for Sri Lankan A/L and O/L students with stream-based subjects, morning alarms, and analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

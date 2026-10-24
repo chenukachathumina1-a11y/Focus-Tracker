@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Focus Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,34 A28,28 0 1,1 74,74" />
+    <!-- Timer Ticks -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,23 L54,27 M54,81 L54,85 M23,54 L27,54 M81,54 L85,54"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <!-- Hourglass Frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36 h32 v3 h-32 z M38,69 h32 v3 h-32 z" />
+    <!-- Hourglass Glass Body -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M42,39 L66,39 C66,47 57,51 54,54 C51,51 42,47 42,39 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,54 C57,57 66,61 66,69 L42,69 C42,61 51,57 54,54 Z" />
+    <!-- Center Focus Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-2.5,0a2.5,2.5 0,1,1 5,0a2.5,2.5 0,1,1 -5,0" />
+</vector>
